@@ -1,4 +1,5 @@
 #Lesson 2
+
 ##Git
 - Mục đích: dùng để quản lý phiên bản giữa các project và là cách hữu hiệu để có thể làm việc với nhiều người
 - Công dụng: dễ dùng, tốc độ xử lý nhanh, chi phí free, phổ biến
@@ -14,7 +15,8 @@
 -- git add <filename> or git add .
 -- git commit -m "message"
 -- git push origin master
-* dùng global config khi muốn áp dụng cho tất cả các repo 
+* dùng global config khi muốn áp dụng cho tất cả các repo
+* 
 ##Javascript
 - Khái niệm: là một ngôn ngữ lập trình giúp cho browser có thể hoạt động được
 -- Trên browser Javascript có thể chạy được là do browser enginee support
